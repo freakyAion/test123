@@ -15,4 +15,10 @@ a:hover{
     font-family: 'VT323';
     font-size: larger;
     background-color: black;
+    color: blue;
+}
+
+li:last-child:hover{
+    cursor: crosshair;
+    color: black; 
 }
